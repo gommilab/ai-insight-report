@@ -1,6 +1,6 @@
 # AI 과학기술-경제 인사이트 분석기
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/hopeman-ai/ai-insight-report)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/gommilab/ai-insight-report)
 
 PDF 또는 DOCX 문서를 업로드하면 AI가 자동으로 분석하여 다음 결과를 제공합니다:
 
